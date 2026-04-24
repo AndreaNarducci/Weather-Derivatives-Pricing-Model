@@ -1,8 +1,7 @@
 # Weather-Derivatives-Pricing-Model
 # Weather Derivatives Pricing — HDD Call Options on Amsterdam Temperature
 
-A quantitative framework for pricing Heating Degree Day (HDD) call options using an Ornstein–Uhlenbeck mean-reverting process on daily temperature data. Built as a BSc thesis project in Industrial Engineering, supervised by Prof. Marco Papi (Campus Bio-Medico di Roma).
-
+A quantitative framework for pricing Heating Degree Day (HDD) call options using an Ornstein–Uhlenbeck mean-reverting process on daily temperature data. Built as a BSc thesis project in Industrial Engineering.
 ---
 
 ## Motivation
