@@ -17,7 +17,7 @@ This project asks: *how can we price HDD call options analytically under a risk-
 ```
 weather-derivatives-pricing/
 │
-├── weather_derivatives.py      # Main script — parameter estimation, simulation, pricing
+├── WeatherD_NR.py      # Main script — parameter estimation, simulation, pricing
 ├── README.md
 └── Amsterdam30years.csv        # Not included — daily mean temperatures for Amsterdam
 ```
