@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
 # ── DATA LOADING ──────────────────────────────────────────────────────────────
-df = pd.read_csv('Amsterdam30years.csv', header=None, names=['tavg'])
+df = pd.read_csv('Amsterdam30years.csv', header=None, names=['tavg'])        #specify the path of the CSV with daily temperatures here; advice: use the Giovanni Merra's NASA Database for area-averaged time series
 
 print(df['tavg'])
 mean      = df['tavg'].mean()
