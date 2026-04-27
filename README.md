@@ -6,8 +6,7 @@ A quantitative framework for pricing Heating Degree Day (HDD) call options using
 
 ## Motivation
 
-Temperature risk is a major source of revenue uncertainty for energy companies, utilities, and agricultural firms. Weather derivatives — and HDD call options in particular — allow market participants to hedge against colder-than-expected winters driving up heating demand.
-
+Temperature risk is a major source of revenue uncertainty for energy companies, utilities, and agricultural firms. Weather derivatives (HDD/CDD call/puts options in particular) allow market participants to hedge against unexpected temperature deviations. 
 This project asks: *how can we price HDD call options analytically under a risk-neutral measure, given a mean-reverting stochastic process for temperature with seasonal drift and heteroskedastic monthly volatility?*
 
 ---
